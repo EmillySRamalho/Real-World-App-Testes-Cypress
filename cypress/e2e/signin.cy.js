@@ -40,5 +40,12 @@ describe('Fluxo completo de cadastro, login e onboarding', () => {
       .should('be.visible')
       .click();
 
+  })
 })
-})
+
+
+
+
+
+
+
