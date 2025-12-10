@@ -7,8 +7,8 @@ describe('Atualizar dados cadastrais', () => {
       cy.get('button[type=submit]').click()
 
       cy.contains('span', 'My Account').click()
-      cy.get("#user-settings-email-input").type('Berner_Kath@teste.com')
-      cy.get('#user-settings-phoneNumber-input').type('987456321')
+      cy.get("#user-settings-email-input").clear().type('Berner_Kath@teste.com')
+      cy.get('#user-settings-phoneNumber-input').clear().type('987456321')
 
        cy.get('[data-test="user-settings-submit"]').click()
       
