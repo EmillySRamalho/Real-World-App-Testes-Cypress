@@ -57,7 +57,7 @@ JavaScript/TypeScript
 
 🎯 Resultados
 
-Os testes garantem a validação completa dos fluxos principais da aplicação — desde o cadastro inicial até o logout — proporcionando maior segurança, cobertura e qualidade ao produto.
+Os testes garantem a validação completa dos fluxos principais da aplicação, desde o cadastro inicial até o logout, proporcionando maior segurança, cobertura e qualidade ao produto.
 
 
 <img width="1896" height="849" alt="image" src="https://github.com/user-attachments/assets/562ea107-eb37-4e68-89dd-0f987f0072af" />
