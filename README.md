@@ -1,4 +1,4 @@
-🧪 Testes End-to-End com Cypress — Real World App (RWA)
+🧪 Testes End-to-End com Cypress : Real World App (RWA)
 
 Este repositório contém a automação completa de testes End-to-End desenvolvida com Cypress para a aplicação Real World App (RWA).
 
