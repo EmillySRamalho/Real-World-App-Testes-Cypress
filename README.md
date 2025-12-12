@@ -61,3 +61,6 @@ Os testes garantem a validação completa dos fluxos principais da aplicação �
 
 
 <img width="1896" height="849" alt="image" src="https://github.com/user-attachments/assets/562ea107-eb37-4e68-89dd-0f987f0072af" />
+
+<img width="1750" height="839" alt="image" src="https://github.com/user-attachments/assets/f14f6bb2-978b-4256-9908-3ec23bd47e2f" />
+
