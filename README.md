@@ -9,40 +9,40 @@ O objetivo deste projeto é validar todas as principais funcionalidades da aplic
 
 - Cadastro de novo usuário
 - Login com credenciais válidas
-Validações de erro (credenciais inválidas e campos obrigatórios)
+- Validações de erro (credenciais inválidas e campos obrigatórios)
 
 💳 Gestão de Contas Bancárias
 
-Cadastro de conta bancária
-Edição de contas
-Exclusão de contas bancárias
-Persistência dos dados após alterações
+- Cadastro de conta bancária
+- Edição de contas
+- Exclusão de contas bancárias
+- Persistência dos dados após alterações
 
 💸 Transferências
 
-Realização de transferências entre usuários
-Validação de valores, recibos e atualização de saldo
+- Realização de transferências entre usuários
+- Validação de valores, recibos e atualização de saldo
 
 🔎 Filtragem e Pesquisa
 
-Aplicação e remoção de filtros
-Verificação de resultados exibidos corretamente
-Limpeza de filtros e atualização da listagem
+- Aplicação e remoção de filtros
+- Verificação de resultados exibidos corretamente
+- Limpeza de filtros e atualização da listagem
 
 🔔 Notificações
 
-Acesso e leitura da aba de notificações
+- Acesso e leitura da aba de notificações
 
 🚪 Logout
 
-Encerramento de sessão
-Redirecionamento seguro para a página de login
+- Encerramento de sessão
+- Redirecionamento seguro para a página de login
 
 🛠️ Tecnologias Utilizadas
 
-Cypress (E2E Testing)
-Node.js
-JavaScript/TypeScript
+- Cypress (E2E Testing)
+- Node.js
+- JavaScript/TypeScript
 
 🎯 Resultados
 
