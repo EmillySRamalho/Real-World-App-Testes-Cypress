@@ -7,8 +7,8 @@ O objetivo deste projeto é validar todas as principais funcionalidades da aplic
 🚀 Funcionalidades Testadas
 🔐 Autenticação
 
-Cadastro de novo usuário
-Login com credenciais válidas
+- Cadastro de novo usuário
+- Login com credenciais válidas
 Validações de erro (credenciais inválidas e campos obrigatórios)
 
 💳 Gestão de Contas Bancárias
